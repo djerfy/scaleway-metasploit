@@ -25,7 +25,7 @@ Create and launch new server with **Image Builder** image. Create and attach new
 Connect on SSH and clone this repository for building image
 
     $ ssh root@IP
-    $ git clone https://github.com/djerfy/image-app-metasploit.git
+    $ git clone https://github.com/djerfy/scaleway-metasploit.git
 
 ---
 
