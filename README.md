@@ -14,7 +14,7 @@ This image is built using [Image Tools](https://github.com/scaleway/image-tools)
 
 We use the Docker's building system and convert it at the end to a disk image that will boot on real servers without Docker. Note that the image is still runnable as a Docker container for debug or for inheritance.
 
-[Mose info](https://github.com/scaleway/image-tools)
+[More info](https://github.com/scaleway/image-tools)
 
 ---
 
