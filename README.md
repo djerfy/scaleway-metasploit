@@ -1,6 +1,6 @@
 # Metasploit image on Scaleway
 
-/!\ Please not use this config, error on compilate Ruby :(
+<font color="red">/!\ Please not use this config, error on compilate Ruby :(</fond>
 
 Scripts to build the **Metasploit** image on Scaleway.
 
