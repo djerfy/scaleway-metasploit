@@ -35,7 +35,7 @@ RUN svn co https://svn.nmap.org/nmap /root/nmap && \
 
 # Configure postgresql server
 RUN service postgresql start && \
-    su - postgres -c "createuser msf -P -S -R -D" && \
+    su - postgres -c "createuser msf -W -S -R -D" && \
     su - postgres -c "createdb -O msf msf" && \
     update-rc.d postgresql enable
 

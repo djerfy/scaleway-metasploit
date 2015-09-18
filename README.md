@@ -1,6 +1,6 @@
 # Metasploit image on Scaleway
 
-<font color="red">/!\ Please not use this config, error on compilate Ruby :(</fond>
+/!\ Sorry, this image is not success build, error occured on compile ruby and use gem for install the framework.
 
 Scripts to build the **Metasploit** image on Scaleway.
 
@@ -24,7 +24,7 @@ Create and launch new server with **Image Builder** image. Create and attach new
 
 Connect on SSH and clone this repository for building image
 
-    $ ssh root@IP
+    $ ssh root@xxx.xxx.xxx.xxx
     $ git clone https://github.com/djerfy/scaleway-metasploit.git
 
 ---

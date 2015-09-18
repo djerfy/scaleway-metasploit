@@ -1,10 +1,10 @@
 DOCKER_NAMESPACE =  armbuild/
-NAME =              image-app-metasploit
+NAME =              scaleway-metasploit
 VERSION =           1.0.0
 VERSION_ALIASES =   1.0.0 latest
 TITLE =             Metasploit
 DESCRIPTION =       An image with Metasploit
-SOURCE_URL =        https://github.com/djerfy/image-app-metasploit
+SOURCE_URL =        https://github.com/djerfy/scaleway-metasploit
 
 ## Image tools (https://github.com/scaleway/image-tools)
 all:    docker-rules.mk
