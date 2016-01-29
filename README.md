@@ -6,7 +6,7 @@ Scripts to build the **Metasploit** image on Scaleway.
 
 This image is built using [Image Tools](https://github.com/scaleway/image-tools) and depends on the official [Debian Jessie](https://github.com/scaleway/image-debian) image.
 
-![](http://ethicalhackingcentral.com/wp-content/uploads/2015/01/metasploit-logo.png)
+![](http://cyberxsecurities.com/wp-content/uploads/2015/01/metasploit-logo.png)
 
 ---
 
